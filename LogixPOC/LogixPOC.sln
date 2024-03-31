@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogixFacade", "LogixFacade\LogixFacade.csproj", "{3681B3A2-A024-4AA4-B532-524E8F87530E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3681B3A2-A024-4AA4-B532-524E8F87530E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3681B3A2-A024-4AA4-B532-524E8F87530E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3681B3A2-A024-4AA4-B532-524E8F87530E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3681B3A2-A024-4AA4-B532-524E8F87530E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FBB1845-4B4E-4316-91B3-CE224502A12E}
+	EndGlobalSection
+EndGlobal

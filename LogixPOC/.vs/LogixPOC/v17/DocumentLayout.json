@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|c:\\users\\3206909\\logix\\sourcecode\\poc\\logixpoc\\logixfacade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|solutionrelative:logixfacade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|c:\\users\\3206909\\logix\\sourcecode\\poc\\logixpoc\\logixfacade\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|solutionrelative:logixfacade\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|c:\\users\\3206909\\logix\\sourcecode\\poc\\logixpoc\\logixfacade\\logixfacade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|solutionrelative:logixfacade\\logixfacade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|c:\\users\\3206909\\logix\\sourcecode\\poc\\logixpoc\\logixfacade\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|solutionrelative:logixfacade\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|c:\\users\\3206909\\logix\\sourcecode\\poc\\logixpoc\\logixfacade\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3681B3A2-A024-4AA4-B532-524E8F87530E}|LogixFacade\\LogixFacade.csproj|solutionrelative:logixfacade\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogixFacade",
+              "DocumentMoniker": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\LogixFacade.csproj",
+              "RelativeDocumentMoniker": "LogixFacade\\LogixFacade.csproj",
+              "ToolTip": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\LogixFacade.csproj",
+              "RelativeToolTip": "LogixFacade\\LogixFacade.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T21:53:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LogixFacade\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LogixFacade\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:53:36.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LogixFacade\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\WeatherForecast.cs",
+              "RelativeToolTip": "LogixFacade\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:53:32.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LogixFacade\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LogixFacade\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T21:52:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\Program.cs",
+              "RelativeDocumentMoniker": "LogixFacade\\Program.cs",
+              "ToolTip": "C:\\Users\\3206909\\Logix\\SourceCode\\POC\\LogixPOC\\LogixFacade\\Program.cs",
+              "RelativeToolTip": "LogixFacade\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:51:44.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
